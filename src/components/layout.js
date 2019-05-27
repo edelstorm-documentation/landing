@@ -8,7 +8,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
-import "./assets/css/theme.min.css"
+import "../assets/css/theme.min.css"
 
 const Layout = ({ children }) => <>{children}</>
 
